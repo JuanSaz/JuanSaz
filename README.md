@@ -5,7 +5,7 @@
 ## Mis Datos
 ---
 ### Actualmente, soy alumno de la **Escuela Tecnica N°7** de *Quilmes* y estoy cursando en 7to 2da Avionica.
-### Interesado en la *informática* y en el *desarrollo y diseño de software*. 🎮
+### Interesado en la *informática* y en el *desarrollo y diseño de videojuegos*. 🎮
 ### Tengo 18 años. <br>
 ### Fan de Star Wars 🌠 y jugador/desarrollador en mi tipo libre. 🕹️  ‎ 
 ```
